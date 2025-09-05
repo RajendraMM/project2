@@ -1,2 +1,2 @@
  # New project
-this project was created on local system by Raj
+this project was created on local system by Raj.
